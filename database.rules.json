@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "quizzes": {
+      ".read": true,
+      ".write": true
+    },
+    "results": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
